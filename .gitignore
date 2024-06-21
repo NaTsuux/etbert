@@ -1,0 +1,8 @@
+datasets
+models/
+**/*.pcapng
+results/
+corpora/*.txt
+.vscode/
+**/__pycache__/**
+contest/
